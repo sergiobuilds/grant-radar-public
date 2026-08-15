@@ -2,7 +2,7 @@
 doc_kind: project-map
 status: canonical
 version: 2026-06-22_v2
-canonical_path: /home/elite/projects/personal/products/grant-radar-public/docs/MASTER-MAP.md
+canonical_path: /home/campbell/projects/personal/products/grant-radar-public/docs/MASTER-MAP.md
 ---
 
 # Grant Radar Public MASTER-MAP

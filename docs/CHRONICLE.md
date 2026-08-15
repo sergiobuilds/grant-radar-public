@@ -2,7 +2,7 @@
 doc_kind: project-decision
 status: canonical
 version: 2026-06-21_v1
-canonical_path: /home/elite/projects/personal/products/grant-radar-public/docs/CHRONICLE.md
+canonical_path: /home/campbell/projects/personal/products/grant-radar-public/docs/CHRONICLE.md
 ---
 
 # Grant Radar Public CHRONICLE
